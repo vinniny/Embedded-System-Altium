@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=Schematic.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Notepad.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Notepad.SchDoc|FileName=Schematic.SchDoc|SheetNumber=1
